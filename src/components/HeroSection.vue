@@ -10,6 +10,7 @@
       <div class="hero-actions">
         <a class="button button-dark" href="#projects">Explore projects <span aria-hidden="true">↘</span></a>
         <a class="text-link" href="#contact">Get in touch <span aria-hidden="true">↗</span></a>
+        <a class="text-link" href="/Avilla_Master_CV.pdf" download="Rakha-Avilla-CV.pdf">Download CV <span aria-hidden="true">↓</span></a>
       </div>
     </div>
     <aside class="hero-aside" aria-label="Availability">
